@@ -8,6 +8,8 @@ Filebeat https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-module-
 
 https://jolokia.org/ (JVM-Agent	jolokia-jvm-1.6.2-agent.jar)
 
+https://github.com/linkedin/kafka-monitor
+
 # Manager
 https://github.com/yahoo/CMAK
 
