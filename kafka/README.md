@@ -22,3 +22,32 @@ https://github.com/yahoo/CMAK
 https://medium.com/analytics-vidhya/twitter-streaming-with-apache-kafka-ea0e2f44181e
 
 https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/example-payloads
+
+
+
+## Zookeeper
+
+webtools machine
+
+
+Zookeeper Navigator - https://github.com/elkozmon/zoonavigator
+
+Zookeeper UI Dashboard - https://github.com/DeemOpen/zkui
+
+Zookeeper Desktop - https://github.com/echoma/zkui
+
+ZK-Web - https://github.com/qiuxiafei/zk-web
+
+Netflix Exhibitor - https://github.com/soabase/exhibitor
+
+
+
+
+https://stackoverflow.com/questions/30940981/zookeeper-error-cannot-open-channel-to-x-at-election-address
+
+
+
+# Blogs
+
+https://andriymz.github.io/#
+
