@@ -40,14 +40,38 @@ ZK-Web - https://github.com/qiuxiafei/zk-web
 
 Netflix Exhibitor - https://github.com/soabase/exhibitor
 
-
+https://github.com/lensesio/kafka-topics-ui
 
 
 https://stackoverflow.com/questions/30940981/zookeeper-error-cannot-open-channel-to-x-at-election-address
 
+
+https://softwaremill.com/kafka-visualisation/
 
 
 # Blogs
 
 https://andriymz.github.io/#
 
+https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576
+
+New Relic SYntethics
+
+
+# Security
+
+- version > 0.10
+- hard to setup
+
+- kafka-security-manager -> https://github.com/conduktor/kafka-security-manager
+
+- Encryption
+- Authentication
+- Authorization
+
+Kerberos Errors - https://github.com/steveloughran/kerberos_and_hadoop/blob/master/sections/errors.md
+
+
+## Setup tips
+
+Directories and files organization
