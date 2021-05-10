@@ -20,9 +20,9 @@ https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576
 
 There is two certification paths:
 
-Dev - *Confluent Certified Developer for Apache Kafka*
+**Dev - *Confluent Certified Developer for Apache Kafka**
 
-Infrastructure Admin - *Confluent Certified Administrator*
+Infrastructure Admin - *Confluent Certified Administrator***
 
 https://www.confluent.io/certification/
 
@@ -80,8 +80,7 @@ https://medium.com/@innovationchef/kafka-security-setup-98e07de6bd63
 
 https://www.javatpoint.com/kafka-security
 
-
-- kafka-security-manager -> https://github.com/conduktor/kafka-security-manager
+kafka-security-manager -> https://github.com/conduktor/kafka-security-manager
 
 # Setup & Configurations tips
 
