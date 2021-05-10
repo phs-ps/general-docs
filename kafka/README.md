@@ -39,6 +39,8 @@ https://jolokia.org/ (JVM-Agent	jolokia-jvm-1.6.2-agent.jar)
 
 https://github.com/linkedin/kafka-monitor
 
+https://github.com/sderosiaux/KafkaOffsetMonitor
+---
 # Manager
 
 https://github.com/yahoo/CMAK
