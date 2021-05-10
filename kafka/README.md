@@ -20,9 +20,9 @@ https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576
 
 There is two certification paths:
 
-**Dev - *Confluent Certified Developer for Apache Kafka**
+Dev - **Confluent Certified Developer for Apache Kafka**
 
-Infrastructure Admin - *Confluent Certified Administrator***
+Infrastructure Admin - **Confluent Certified Administrator**
 
 https://www.confluent.io/certification/
 
