@@ -1,3 +1,15 @@
+# Guides & Others
+
+Uma visão executiva -> https://oscarcasagrande.com.br/1238/kafka-uma-visao-executiva-inicial/
+
+https://kafka.apache.org/documentation/ - the open source project
+
+https://docs.confluent.io/home/overview.html - the private company behind the project
+
+https://www.confluent.io/what-is-apache-kafka - Overview and free download book -- O´Reilly - Kafka: The Definitive Guide
+
+
+
 # Monitoring
 
 https://dev.to/martinhynar/monitoring-kafka-brokers-using-jolokia-metricbeat-and-elasticsearch-5678
@@ -11,9 +23,9 @@ https://jolokia.org/ (JVM-Agent	jolokia-jvm-1.6.2-agent.jar)
 https://github.com/linkedin/kafka-monitor
 
 # Manager
+
 https://github.com/yahoo/CMAK
 
-# Guides & Others
 
 
 
