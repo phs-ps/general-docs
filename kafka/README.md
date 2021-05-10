@@ -9,15 +9,23 @@ The private company behind the project - https://docs.confluent.io/home/overview
 Overview and free download book -- O'Reilly - Kafka: The Definitive Guide - https://www.confluent.io/what-is-apache-kafka
 
 
+# Blogs
+
+https://andriymz.github.io/#
+
+https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576
+
 
 # Certifications
 
-https://www.confluent.io/certification/
-
 There is two certification paths:
 
-*Confluent Certified Developer for Apache Kafka*
-*Confluent Certified Administrator*
+Dev - *Confluent Certified Developer for Apache Kafka*
+
+Infrastructure Admin - *Confluent Certified Administrator*
+
+https://www.confluent.io/certification/
+
 
 # Monitoring
 
@@ -37,19 +45,14 @@ https://github.com/yahoo/CMAK
 
 
 
-
-## Labs & References
+# Labs & References
 
 https://medium.com/analytics-vidhya/twitter-streaming-with-apache-kafka-ea0e2f44181e
 
 https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/example-payloads
 
 
-
-## Zookeeper
-
-webtools machine
-
+# Zookeeper
 
 Zookeeper Navigator - https://github.com/elkozmon/zoonavigator
 
@@ -63,36 +66,23 @@ Netflix Exhibitor - https://github.com/soabase/exhibitor
 
 https://github.com/lensesio/kafka-topics-ui
 
-
 https://stackoverflow.com/questions/30940981/zookeeper-error-cannot-open-channel-to-x-at-election-address
-
 
 https://softwaremill.com/kafka-visualisation/
 
-
-# Blogs
-
-https://andriymz.github.io/#
-
-https://blog.softwaremill.com/help-kafka-ate-my-data-ae2e5d3e6576
-
-New Relic SYntethics
-
-
 # Security
 
-- version > 0.10
-- hard to setup
+https://kafka.apache.org/documentation/#security
+
+https://www.confluent.io/product/confluent-platform/enterprise-grade-security/
+
+https://medium.com/@innovationchef/kafka-security-setup-98e07de6bd63
+
+https://www.javatpoint.com/kafka-security
+
 
 - kafka-security-manager -> https://github.com/conduktor/kafka-security-manager
 
-- Encryption
-- Authentication
-- Authorization
-
-Kerberos Errors - https://github.com/steveloughran/kerberos_and_hadoop/blob/master/sections/errors.md
-
-
-## Setup tips
+# Setup & Configurations tips
 
 Directories and files organization
