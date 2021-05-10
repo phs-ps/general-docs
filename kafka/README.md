@@ -2,13 +2,22 @@
 
 Uma visão executiva -> https://oscarcasagrande.com.br/1238/kafka-uma-visao-executiva-inicial/
 
-https://kafka.apache.org/documentation/ - the open source project
+The open source project - https://kafka.apache.org/documentation/
 
-https://docs.confluent.io/home/overview.html - the private company behind the project
+The private company behind the project - https://docs.confluent.io/home/overview.html
 
-https://www.confluent.io/what-is-apache-kafka - Overview and free download book -- O´Reilly - Kafka: The Definitive Guide
+Overview and free download book -- O'Reilly - Kafka: The Definitive Guide - https://www.confluent.io/what-is-apache-kafka
 
 
+
+# Certifications
+
+https://www.confluent.io/certification/
+
+There is two certification paths:
+
+*Confluent Certified Developer for Apache Kafka*
+*Confluent Certified Administrator*
 
 # Monitoring
 
