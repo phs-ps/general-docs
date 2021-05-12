@@ -1,4 +1,4 @@
-# Guides & Others
+# Guides & Articles
 
 Uma visão executiva -> https://oscarcasagrande.com.br/1238/kafka-uma-visao-executiva-inicial/
 
@@ -8,6 +8,7 @@ The private company behind the project - https://docs.confluent.io/home/overview
 
 Overview and free download book -- O'Reilly - Kafka: The Definitive Guide - https://www.confluent.io/what-is-apache-kafka
 
+https://aws.amazon.com/blogs/big-data/securing-apache-kafka-is-easy-and-familiar-with-iam-access-control-for-amazon-msk/
 
 # Blogs
 
