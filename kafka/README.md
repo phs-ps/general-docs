@@ -42,6 +42,8 @@ https://github.com/linkedin/kafka-monitor
 
 https://github.com/sderosiaux/KafkaOffsetMonitor
 
+https://github.com/lightbend/kafka-lag-exporter
+
 ---
 # Manager
 
