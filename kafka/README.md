@@ -10,6 +10,8 @@ Overview and free download book -- O'Reilly - Kafka: The Definitive Guide - http
 
 https://aws.amazon.com/blogs/big-data/securing-apache-kafka-is-easy-and-familiar-with-iam-access-control-for-amazon-msk/
 
+https://jaceklaskowski.gitbooks.io/apache-kafka/content/
+
 # Blogs
 
 https://andriymz.github.io/#
@@ -42,7 +44,11 @@ https://github.com/linkedin/kafka-monitor
 
 https://github.com/sderosiaux/KafkaOffsetMonitor
 
+<<<<<<< Updated upstream
 https://github.com/lightbend/kafka-lag-exporter
+=======
+https://support.confluent.io/hc/en-us/articles/360041514851-Most-important-Kafka-Metrics
+>>>>>>> Stashed changes
 
 ---
 # Manager
