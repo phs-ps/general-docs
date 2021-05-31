@@ -50,7 +50,7 @@ https://support.confluent.io/hc/en-us/articles/360041514851-Most-important-Kafka
 
 Kafka Exporter https://github.com/danielqsj/kafka_exporter
 
-Kafka Prometheuis Alert Rules https://github.com/dcos/prometheus-alert-rules/blob/master/rules/kafka/kafka-rules.yml
+Kafka Prometheus Alert Rules https://github.com/dcos/prometheus-alert-rules/blob/master/rules/kafka/kafka-rules.yml
 
 # Manager
 
