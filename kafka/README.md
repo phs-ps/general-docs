@@ -44,17 +44,14 @@ https://github.com/linkedin/kafka-monitor
 
 https://github.com/sderosiaux/KafkaOffsetMonitor
 
-<<<<<<< Updated upstream
 https://github.com/lightbend/kafka-lag-exporter
-=======
-https://support.confluent.io/hc/en-us/articles/360041514851-Most-important-Kafka-Metrics
->>>>>>> Stashed changes
 
----
+https://support.confluent.io/hc/en-us/articles/360041514851-Most-important-Kafka-Metrics
+
+
 # Manager
 
 https://github.com/yahoo/CMAK
-
 
 
 # Labs & References
