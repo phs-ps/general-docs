@@ -48,6 +48,9 @@ https://github.com/lightbend/kafka-lag-exporter
 
 https://support.confluent.io/hc/en-us/articles/360041514851-Most-important-Kafka-Metrics
 
+Kafka Exporter https://github.com/danielqsj/kafka_exporter
+
+Kafka Prometheuis Alert Rules https://github.com/dcos/prometheus-alert-rules/blob/master/rules/kafka/kafka-rules.yml
 
 # Manager
 
