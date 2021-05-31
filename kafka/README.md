@@ -82,6 +82,16 @@ https://stackoverflow.com/questions/30940981/zookeeper-error-cannot-open-channel
 
 https://softwaremill.com/kafka-visualisation/
 
+
+# KSQL
+
+https://ksqldb.io/
+
+https://docs.confluent.io/platform/current/ksqldb/index.html
+
+https://www.confluent.io/product/ksql/
+
+
 # Security
 
 https://kafka.apache.org/documentation/#security
