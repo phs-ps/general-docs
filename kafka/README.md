@@ -57,6 +57,21 @@ Kafka Prometheus Alert Rules https://github.com/dcos/prometheus-alert-rules/blob
 https://github.com/yahoo/CMAK
 
 
+# Topics and Partitions Rebalance
+
+https://gist.github.com/sahilsk/a4d9d989fa4763c1abcbaec028f8346e
+
+https://github.com/CAFxX/kafkabalancer
+
+https://github.com/linkedin/cruise-control
+
+
+https://docs.confluent.io/5.2.4/kafka/rebalancer/configuration_options.html
+
+
+
+
+
 # Labs & References
 
 https://medium.com/analytics-vidhya/twitter-streaming-with-apache-kafka-ea0e2f44181e
