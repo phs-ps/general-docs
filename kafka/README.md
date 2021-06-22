@@ -65,10 +65,7 @@ https://github.com/CAFxX/kafkabalancer
 
 https://github.com/linkedin/cruise-control
 
-
 https://docs.confluent.io/5.2.4/kafka/rebalancer/configuration_options.html
-
-
 
 
 
