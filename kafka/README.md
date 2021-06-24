@@ -56,6 +56,8 @@ Kafka Prometheus Alert Rules https://github.com/dcos/prometheus-alert-rules/blob
 
 https://github.com/yahoo/CMAK
 
+https://github.com/Yelp/kafka-utils
+
 
 # Topics and Partitions Rebalance
 
